@@ -1,0 +1,6 @@
+leiden,B cells,CD16+ NK cells,CD16- NK cells,CD8a/a,Classical monocytes,Cycling T cells,DC,DC2,DC3,Double-positive thymocytes,Follicular helper T cells,HSC/MPP,MAIT cells,MEMP,MNP,Macrophages,Megakaryocyte precursor,Megakaryocytes/platelets,Memory B cells,Mono-mac,Monocytes,Myelocytes,NK cells,NKT cells,Naive B cells,Non-classical monocytes,Plasma cells,Regulatory T cells,T(agonist),Tcm/Naive cytotoxic T cells,Tcm/Naive helper T cells,Tem/Effector helper T cells,Tem/Temra cytotoxic T cells,Tem/Trm cytotoxic T cells,Treg(diff),Trm cytotoxic T cells,Type 1 helper T cells,Type 17 helper T cells,gamma-delta T cells,pDC
+0,7,1,1,1,0,0,3,0,0,1,1,1,8,1,0,1,1,0,0,0,0,0,2,0,0,0,0,94,1,207,626,190,0,20,2,8,1,5,1,0
+1,316,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,11,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+2,2,0,1,0,381,0,2,0,0,0,0,0,0,0,1,2,0,3,0,1,5,5,0,0,0,225,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+3,2,146,2,0,0,1,0,0,0,1,0,0,75,0,0,1,0,0,0,0,0,0,57,12,0,0,0,8,0,11,8,1,20,86,0,3,2,0,1,0
+4,0,0,0,0,3,0,12,6,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2

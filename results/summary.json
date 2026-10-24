@@ -1,0 +1,55 @@
+{
+  "input_cells": 2700,
+  "input_genes": 32738,
+  "qc_pass_cells": 2612,
+  "qc_removed_cells": 88,
+  "predicted_doublets_removed": 5,
+  "scrublet_threshold": 0.3255275201753743,
+  "retained_cells": 2607,
+  "retained_genes": 13574,
+  "clusters": 5,
+  "uncertain_cells": 437,
+  "uncertain_clusters": 1,
+  "unknown_celltypist_cells": 29,
+  "candidate_agreement_cells": 2331,
+  "broad_agreement_cells": 2126,
+  "broad_agreement_fraction": 0.8154967395473725,
+  "cell_types": {
+    "T cells": 1184,
+    "Monocytes": 629,
+    "Uncertain (NK cells)": 437,
+    "B cells": 330,
+    "Dendritic cells": 27
+  },
+  "qc_flag_counts_overlapping": {
+    "low_genes": 0,
+    "high_mt": 6,
+    "depth_outlier": 58,
+    "gene_outlier": 79
+  },
+  "parameters": {
+    "seed": 42,
+    "min_genes": 200,
+    "max_mt_percent": 10,
+    "mad_cutoff": 5,
+    "min_cells_per_gene": 3,
+    "expected_doublet_rate": 0.03,
+    "hvg": 2000,
+    "pca_components": 40,
+    "neighbor_pcs": 30,
+    "neighbors": 15,
+    "leiden_resolution": 0.5,
+    "marker_margin_cutoff": 0.15,
+    "marker_support_cutoff": 0.7
+  },
+  "versions": {
+    "scanpy": "1.11.5",
+    "anndata": "0.12.6",
+    "celltypist": "1.7.1",
+    "numpy": "2.2.6",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.7.2",
+    "scrublet": "0.2.3"
+  },
+  "elapsed_seconds": 27.31
+}

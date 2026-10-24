@@ -1,0 +1,11 @@
+{
+  "dataset": "10x Genomics PBMC3k, healthy donor, hg19",
+  "dataset_url": "https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/pbmc3k",
+  "retrieval": "scanpy.datasets.pbmc3k (public raw count H5AD mirror)",
+  "cells": 2700,
+  "genes": 32738,
+  "matrix_sha256": "89a96f1beaa2dd83a687666d3f19a4513ac27a2a2d12581fcd77afed7ea653a1",
+  "model": "Immune_All_Low.pkl",
+  "model_sha256": "290874d35dac039d4c9218c343fde4aac1077709b72a331ce7266f6828c36502",
+  "model_source": "https://www.celltypist.org/models"
+}

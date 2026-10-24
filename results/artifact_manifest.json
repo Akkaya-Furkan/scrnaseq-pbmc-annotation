@@ -1,0 +1,87 @@
+[
+  {
+    "file": "pbmc3k_annotated.h5ad",
+    "bytes": 17142600,
+    "sha256": "d8c011ea840f95d5c92774b80cb56c371fdb320bf07e46d18df472126aab1834"
+  },
+  {
+    "file": "umap.png",
+    "bytes": 144035,
+    "sha256": "2a6ca8d104e7e02bcc91e6a0ac2c55aa74067dfca3e012eb1c62d570908dba75"
+  },
+  {
+    "file": "marker_dotplot.png",
+    "bytes": 97785,
+    "sha256": "ffb14af293e5ef9f40371568ed9e6fd71c949816bfcd653483a7322016fe9207"
+  },
+  {
+    "file": "qc.png",
+    "bytes": 56943,
+    "sha256": "795dc5c518e24a5ed6faaaf0a84a128f703ef7dd3bb309b0756932b383ceee30"
+  },
+  {
+    "file": "doublet_scores.png",
+    "bytes": 41847,
+    "sha256": "40bf76f720e64d64844bb6d640629f9d00e610b290074f9d9409421330a4593b"
+  },
+  {
+    "file": "summary.json",
+    "bytes": 1307,
+    "sha256": "4e28c05270494d16a5ca1061d34d5d40b67954ad2fea15b7637f95e361c0f37d"
+  },
+  {
+    "file": "data_manifest.json",
+    "bytes": 530,
+    "sha256": "f9585016f72743dd207f76e434fb105edf0c120d5187059bd897bf9526e4f2ff"
+  },
+  {
+    "file": "qc_cells.csv",
+    "bytes": 377586,
+    "sha256": "50b5ea6e4d8bd9f3fb71407cfc75bad49ddf0bb405ca62c9abce96b1f9d2053d"
+  },
+  {
+    "file": "cluster_marker_scores.csv",
+    "bytes": 421,
+    "sha256": "d93b0702ce96dc1f0915c1dfc3721a0f5ac15fc25246ade051a6132cab10b896"
+  },
+  {
+    "file": "cell_marker_scores.csv",
+    "bytes": 225999,
+    "sha256": "60cfca0381f865187117666a6198ebd66cf087572c93b9a948bfacb1adf603ef"
+  },
+  {
+    "file": "celltypist_label_mapping.csv",
+    "bytes": 1570,
+    "sha256": "e74addecc8a58894848f064234b4990501db7434f5808fcfe8e27a45e806aa55"
+  },
+  {
+    "file": "annotation_crosstab.csv",
+    "bytes": 227,
+    "sha256": "4cf2cfdc2b421986b8f8e5482950c74007e507d93a6fed9978f00a7cc8d5d6f0"
+  },
+  {
+    "file": "cluster_celltypist_labels.csv",
+    "bytes": 1057,
+    "sha256": "af319a95d549736c3026086e4e1de98a8867a83f568ba364edc289b04d29ee7d"
+  },
+  {
+    "file": "cluster_annotations.csv",
+    "bytes": 651,
+    "sha256": "411bdf760b7fe898edd0be21bb1f2b025fea01af402e3a0d217fe552466c76ff"
+  },
+  {
+    "file": "cell_annotations.csv",
+    "bytes": 586198,
+    "sha256": "ddc03f17dde2ba1696e73d04c178279336c76b0b54c5f67566febe27b14fd208"
+  },
+  {
+    "file": "ranked_markers.csv",
+    "bytes": 7322794,
+    "sha256": "c34d558a4162e07d638268b85a1f0f9b4efb6141887bbb0d1ca47876aa550e86"
+  },
+  {
+    "file": "runtime.txt",
+    "bytes": 767,
+    "sha256": "091c360d298354ec318616617a15dc193f65ed6b4f988cd7f4bfa3c4b08066e8"
+  }
+]

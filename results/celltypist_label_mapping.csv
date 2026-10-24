@@ -1,0 +1,59 @@
+model_label,broad_type
+B cells,B cells
+Naive B cells,B cells
+Memory B cells,B cells
+Age-associated B cells,B cells
+Plasma cells,B cells
+CD16+ NK cells,NK cells
+CD16- NK cells,NK cells
+NK cells,NK cells
+Monocytes,Monocytes
+Classical monocytes,Monocytes
+Non-classical monocytes,Monocytes
+Intermediate monocytes,Monocytes
+DC,Dendritic cells
+DC1,Dendritic cells
+DC2,Dendritic cells
+pDC,Dendritic cells
+DC3,Dendritic cells
+Megakaryocytes/platelets,Platelets
+T cells,T cells
+CD4+ T cells,T cells
+CD8+ T cells,T cells
+Tcm/Naive helper T cells,T cells
+Tem/Trm cytotoxic T cells,T cells
+Tem/Effector helper T cells,T cells
+Tcm/Naive cytotoxic T cells,T cells
+Treg,T cells
+MAIT cells,T cells
+gdT cells,T cells
+Tem/Temra cytotoxic T cells,T cells
+Trm cytotoxic T cells,T cells
+Trm helper T cells,T cells
+Proliferating T cells,T cells
+Regulatory T cells,T cells
+Treg(diff),T cells
+Follicular helper T cells,T cells
+Type 1 helper T cells,T cells
+Type 17 helper T cells,T cells
+gamma-delta T cells,T cells
+CRTAM+ gamma-delta T cells,T cells
+Cycling T cells,T cells
+Cycling gamma-delta T cells,T cells
+Memory CD4+ cytotoxic T cells,T cells
+Tem/Effector helper T cells PD1+,T cells
+CD8a/a,T cells
+CD8a/b(entry),T cells
+T(agonist),T cells
+Cycling B cells,B cells
+Follicular B cells,B cells
+Germinal center B cells,B cells
+Transitional B cells,B cells
+Plasmablasts,B cells
+Proliferative germinal center B cells,B cells
+Cycling NK cells,NK cells
+Transitional NK,NK cells
+Cycling DCs,Dendritic cells
+Migratory DCs,Dendritic cells
+Transitional DC,Dendritic cells
+Cycling monocytes,Monocytes
